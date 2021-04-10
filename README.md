@@ -1,3 +1,7 @@
 # learngit
-04/11/2021 start learning Git
+
+## 04/11/2021 
+
+start learning Git
+
 Further enhencement
